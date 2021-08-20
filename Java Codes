@@ -1,0 +1,8 @@
+// First program
+class First
+{
+public static main(String args[])
+{
+Syastem.out.println("Hello World");
+}
+}
